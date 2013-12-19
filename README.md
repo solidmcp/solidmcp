@@ -1,4 +1,4 @@
 solidmcp
 ========
 
-Main repo of solidmcp
+SolidMCP Repository
